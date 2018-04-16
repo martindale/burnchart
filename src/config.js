@@ -1,11 +1,11 @@
 export default {
   // Firebase.
   "firebase": {
-    apiKey: "AIzaSyD_kfzkAPA87PoRFIZa8JEzZkT66CqUDpU",
-    authDomain: "burnchart.firebaseapp.com",
-    databaseURL: "https://burnchart.firebaseio.com",
-    storageBucket: "firebase-burnchart.appspot.com",
-    messagingSenderId: "185222099419"
+    apiKey: "AIzaSyBX2JoAXJCE6HsvptE8U6BlikcYG9Pvy0A",
+    authDomain: "burnchart-ericmartindale-com.firebaseapp.com",
+    databaseURL: "https://burnchart-ericmartindale-com.firebaseio.com",
+    storageBucket: "",
+    messagingSenderId: "950786361286"
   },
   // Data source provider.
   "provider": "github",
